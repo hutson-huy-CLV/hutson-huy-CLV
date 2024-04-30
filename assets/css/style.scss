@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+footer {
+  display: none !important;
+}
+
+.page-header
+{
+    // color: #fff;
+    // text-align: center;
+    // background-color: #159957;
+    // background-image: linear-gradient(120deg, #155799, #159957);
+    padding: 1.5rem 2rem;
+}
+
+.btn {
+  display: none !important;
+}
