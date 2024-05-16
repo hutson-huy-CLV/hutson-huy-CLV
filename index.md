@@ -10,7 +10,7 @@ layout: default
 - Nearly 2 years of experience working with the BI tool Google Looker and building dbt data models. 
 - Over 2 years of hands-on experience in data projects and thriving in data-driven environments. 
 - Proven ability to excel in big projects and international settings, showcasing strong communication and leading skills. 
-- Experienced in building data pipelines development (GCP, dbt, Airbyte, Airflow…). 
+- Experienced in data pipelines development (GCP, dbt, Airbyte, Airflow…). 
 - Ability to adapt to new technologies and environments quickly.
 
 ## Work Experience
@@ -18,9 +18,9 @@ layout: default
 ### Data Analyst (Sub Lead LookML Developer) • CyberLogitec 
 Oct 2022 - Present | Ho Chi Minh - Viet Nam
 
-- Managing a team of 8 Developers in multiple countries.
+- Managing a team of 8 Developers from multiple countries.
 - Working closely with POs and decision-makers to understand and document shaping the appropriate LookML Dashboards solution.
-- Migrated/Created new data models (14 semantic layers) from Cognos to Looker.
+- Migrated/Created new data models (14+ semantic layers) from Cognos to Looker.
 - Using Looker API to create Looks, Docs.
 - Conducting thorough LookML code reviews, ensuring adherence to best practices and optimizing performance.
 - Adepting at guiding, training new members in Looker adoption.
